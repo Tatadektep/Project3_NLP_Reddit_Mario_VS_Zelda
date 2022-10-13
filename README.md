@@ -1,7 +1,6 @@
-# ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Project 3: Standardized Test Analysis
+# ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Project 3: NLP Classification of Reddit: Mario Vs Zelda
 
-by ([*Kantaphon Vareekasem*](https://github.com/Tatadektep)) & ([*Pornpan Thongdee
-*](https://github.com/Tatadektep))
+by ([*Kantaphon Vareekasem*](https://github.com/Tatadektep)) & ([*Pornpan Thongdee*](https://github.com/Tatadektep))
 
 "It's-a-me, Mario!" - Super Mario 64.
 "We must win! The fate of Hyrule depends on it!"
