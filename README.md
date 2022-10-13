@@ -3,7 +3,8 @@
 by ([*Kantaphon Vareekasem*](https://github.com/Tatadektep)) & ([*Pornpan Thongdee*](https://github.com/Tatadektep))
 
 "It's-a-me, Mario!" - Super Mario 64.
-"We must win! The fate of Hyrule depends on it!"
+
+"We must win! The fate of Hyrule depends on it!" - Legend of Zelda
 
 ### [Presentation Deck](https://docs.google.com/presentation/d/1eM9roDkzjL45zVwXfc0ELQt3S4eltEgoB1IsOxTccRc/)
 
